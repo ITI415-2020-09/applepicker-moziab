@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/applepicker.unity
     guid: 5dfe3b58f825fe540be3fdfd7bcfe443
+  - enabled: 1
+    path: Assets/Scenes/applepicker_0.unity
+    guid: 435994770a23a6f4f80816d1de655901
   m_configObjects: {}
